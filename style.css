@@ -42,7 +42,7 @@ body {
     margin-right: 0.5rem;
   }
   .green {
-    overflow: auto;
+    overflow: hidden;
   }
 }
 /* setting for desktop */
