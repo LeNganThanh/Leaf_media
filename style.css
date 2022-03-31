@@ -55,13 +55,12 @@ body {
       width: 33%;
       display: inline-block;
       vertical-align: top;
-
   }
   .green p{
        padding-left: 1rem;
   }
   .green img {
-    width: 95%;
     margin: 0.8rem;
+    width: 95%;
   }
 }
