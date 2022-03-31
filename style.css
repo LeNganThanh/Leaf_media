@@ -14,7 +14,7 @@ body {
   padding-bottom: 1rem;
 }
 .responsive h1 {
-  font-size: clamp(1.1rem, 1.1rem + 1vw, 2rem);
+  font-size: clamp(1.1rem, 1.1rem + 2vw, 4rem);
   padding: 1rem;
   text-align: center;
 }
@@ -50,14 +50,15 @@ body {
   .responsive {
     width: 80%;
     margin: 0 auto;
-    font-size: 1.4rem;
-  }
- .responsive h1{
-      font-size: 3rem;
   }
   .green{
       width: 33%;
       display: inline-block;
+      vertical-align: top;
+
+  }
+  .green p{
+       padding-left: 1rem;
   }
   .green img {
     width: 95%;
